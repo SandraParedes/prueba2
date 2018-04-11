@@ -16,6 +16,7 @@ public class Prueba2 {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
         System.out.println("Prueba2");
+        System.out.println("Rama diferente");
     }
     
 }
